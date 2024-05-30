@@ -10,7 +10,7 @@ Project Highlights
 At Atos Syntel, I played a pivotal role in the successful execution of projects for renowned clients, streamlining processes and delivering high-quality solutions. My experience with IBM Maximo has honed my skills in enterprise asset management, contributing to the seamless operation of critical business functions.
 
 Education and Training
-I hold a Bachelor's degree in [Your Field of Study] and have continuously pursued professional development opportunities to stay ahead in the ever-evolving tech landscape. My commitment to learning is evident in my ongoing journey towards mastery, including certifications and technical training in relevant domains.
+I hold a Post graduate and diploma degree in Strategic project management and a Bachelor's degree in Computer science engineering and have continuously pursued professional development opportunities to stay ahead in the ever-evolving tech landscape. My commitment to learning is evident in my ongoing journey towards mastery, including certifications and technical training in relevant domains.
 
 Collaboration and Growth
 I thrive in collaborative environments and excel in Agile methodologies, where teamwork and innovation are paramount. I'm driven by the opportunity to make a meaningful impact in the software development world, and I'm eager to continue growing and contributing to transformative projects.
